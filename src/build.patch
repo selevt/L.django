@@ -1,0 +1,18 @@
+611c611
+<         <apply executable="java" parallel="false" force="true" dest="./${dir.publish}/" >
+---
+>         <apply executable="java" parallel="false" force="true" dest="./${dir.publish}/">
+619a620
+>             <arg line="-p ./${dir.build}/config/django-patterns.txt"/>
+633c634
+<         <apply executable="java" parallel="false" force="true" dest="./${dir.publish}/" >
+---
+>         <apply executable="java" parallel="false" force="true" dest="./${dir.publish}/">
+641a643
+>             <arg line="-p ./${dir.build}/config/django-patterns.txt"/>
+655c657
+<         <apply executable="java" parallel="false" force="true" dest="./${dir.publish}/" >
+---
+>         <apply executable="java" parallel="false" force="true" dest="./${dir.publish}/">
+662a665
+>             <arg line="-p ./${dir.build}/config/django-patterns.txt"/>
