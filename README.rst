@@ -14,6 +14,7 @@ Usage
 TODO
 ----
 (what currently has to be done manually and/or to be documented)
+
 * separate templates from static files in folders
 * point settings.py to these folders
 * path adjustments in config of buildscript
